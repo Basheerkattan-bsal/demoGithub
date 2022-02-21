@@ -4,5 +4,6 @@ favorite color Black
 favorite language English 
 favorite restaurant Fridays 
 adding text from a local machine
+ changes coming form collaborator
 
   
